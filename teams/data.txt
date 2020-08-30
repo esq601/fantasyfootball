@@ -1,0 +1,12 @@
+path:
+- data.csv
+- data.rds
+rows: 12
+cols: 5
+columns:
+  name: character
+  owner: character
+  pic: character
+  xpos: numeric
+  ypos: numeric
+type: table

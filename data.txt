@@ -1,5 +1,5 @@
 - path: teams
   name: teams
   rows: 12
-  cols: 5
+  cols: 6
   type: table

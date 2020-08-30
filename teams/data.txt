@@ -2,8 +2,9 @@ path:
 - data.csv
 - data.rds
 rows: 12
-cols: 5
+cols: 6
 columns:
+  key: character
   name: character
   owner: character
   pic: character

@@ -1,7 +1,7 @@
 - path: teams
   name: teams
-  rows: 12
-  cols: 6
+  rows: 0
+  cols: 0
   type: table
 - path: match_df
   name: match_df

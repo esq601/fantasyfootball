@@ -2,7 +2,7 @@ path:
 - data.csv
 - data.rds
 rows: 156
-cols: 13
+cols: 17
 columns:
   key: character
   opponent: character
@@ -17,4 +17,8 @@ columns:
   name.oppo: character
   owner.oppo: character
   pic.oppo: character
+  home: numeric
+  away: numeric
+  matchup: numeric
+  matchupnum: character
 type: table

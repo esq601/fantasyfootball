@@ -6,5 +6,5 @@
 - path: match_df
   name: match_df
   rows: 156
-  cols: 13
+  cols: 17
   type: table

@@ -1,7 +1,11 @@
 path:
 - data.csv
 - data.rds
-rows: 0
-cols: 0
-columns: {}
+rows: 12
+cols: 4
+columns:
+  key: character
+  name: character
+  owner: character
+  pic: character
 type: table

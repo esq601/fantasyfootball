@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 156
-cols: 17
+rows: 273
+cols: 13
 columns:
   key: character
   opponent: character
@@ -14,11 +14,7 @@ columns:
   name.team: character
   owner.team: character
   pic.team: character
-  xpos.team: numeric
-  ypos.team: numeric
   name.oppo: character
   owner.oppo: character
   pic.oppo: character
-  xpos.oppo: numeric
-  ypos.oppo: numeric
 type: table

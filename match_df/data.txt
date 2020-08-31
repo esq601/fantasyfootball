@@ -1,15 +1,15 @@
 path:
 - data.csv
 - data.rds
-rows: 273
+rows: 156
 cols: 13
 columns:
   key: character
   opponent: character
-  week: character
+  week: numeric
   event_type: character
-  probability: character
-  proj: character
+  probability: numeric
+  proj: numeric
   actual: character
   name.team: character
   owner.team: character

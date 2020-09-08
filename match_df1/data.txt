@@ -2,7 +2,7 @@ path:
 - data.csv
 - data.rds
 rows: 156
-cols: 17
+cols: 18
 columns:
   key: character
   opponent: character
@@ -21,4 +21,5 @@ columns:
   away: numeric
   matchup: numeric
   matchupnum: character
+  dtg: POSIXct
 type: table

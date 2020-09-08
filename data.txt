@@ -11,5 +11,5 @@
 - path: match_df1
   name: match_df1
   rows: 156
-  cols: 17
+  cols: 18
   type: table

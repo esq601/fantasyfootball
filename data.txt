@@ -15,6 +15,6 @@
   type: table
 - path: match_df2
   name: match_df2
-  rows: 312
+  rows: 156
   cols: 18
   type: table

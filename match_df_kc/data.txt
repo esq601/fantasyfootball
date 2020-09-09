@@ -1,0 +1,25 @@
+path:
+- data.csv
+- data.rds
+rows: 143
+cols: 18
+columns:
+  key: character
+  opponent: character
+  week: numeric
+  event_type: character
+  probability: numeric
+  proj: numeric
+  actual: character
+  name.team: character
+  owner.team: character
+  pic.team: character
+  name.oppo: character
+  owner.oppo: character
+  pic.oppo: character
+  home: numeric
+  away: numeric
+  matchup: numeric
+  matchupnum: character
+  dtg: POSIXct
+type: table

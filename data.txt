@@ -18,3 +18,8 @@
   rows: 624
   cols: 18
   type: table
+- path: teams_kc
+  name: teams_kc
+  rows: 12
+  cols: 4
+  type: table

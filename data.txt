@@ -30,6 +30,6 @@
   type: table
 - path: match_df_kc1
   name: match_df_kc1
-  rows: 1404
+  rows: 1560
   cols: 18
   type: table
